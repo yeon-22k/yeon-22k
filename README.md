@@ -1,10 +1,10 @@
-#  안녕하세요 김채입니다✋
+#  개발자 김채연(yeonDy)입니다✋
 ### ⛏️삽질은 제 성장 루틴입니다
 
 ### ✅Tech Stack
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -31,5 +31,5 @@
 <br>
 ### 👩‍💻Experience
 상명대 컴퓨터과학과 [2020.03 ~ 2025.02] <br>
-UMC 연합동아리 4th Server Spring [2023.03 ~ 2023.08] <br>
+UMC 연합동아리 4th Server Spring [2023.03 ~ 08] <br>
 한국외대 교육대학원 컴퓨터교육전공 [2025.03 ~ ]
