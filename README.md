@@ -19,7 +19,7 @@
 <br>
 ### ⭐What I Value
 ![Approach with Purpose](https://img.shields.io/badge/Approach_with_Purpose-555555) <br>
-삽질할 땐 그냥 파지 않습니다. 항상 ‘왜’ 그런지, ‘어떻게’가 더 나은지 고민하며 깊게 고민합니다.
+삽질할 땐 그냥 하지 않습니다. 항상 ‘왜’ 그런지, ‘어떻게’가 더 나은지 고민하며 깊이 있게 접근합니다.
 <br>
 <br>
 ![Keep It Clean](https://img.shields.io/badge/Clean_Code_is_Kindness-555555) <br>
